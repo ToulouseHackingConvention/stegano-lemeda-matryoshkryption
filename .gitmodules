@@ -1,0 +1,3 @@
+[submodule "src/spectrology"]
+	path = src/spectrology
+	url = git@github.com:lemeda/spectrology.git
